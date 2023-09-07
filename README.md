@@ -1,0 +1,2 @@
+# csegok
+it about git
